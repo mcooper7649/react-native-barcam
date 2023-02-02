@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "barcam",
+    "slug": "barcam",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "barcam"
+}
